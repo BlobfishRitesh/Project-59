@@ -28,3 +28,10 @@ img {
     cursor: pointer;
     color: black
 }
+#picture {
+    height: 400px;
+    width: 600px;
+}
+img:hover{
+    transform: scale(0.9);
+}
